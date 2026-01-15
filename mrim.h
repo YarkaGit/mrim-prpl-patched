@@ -72,7 +72,7 @@ struct _MrimData {
 
 #include "util.h"
 
-#define MRIM_MAIL_RU "mrim.mail.ru"
+#define MRIM_MAIL_RU "proto.mrim.su"
 #define MRIM_MAIL_RU_PORT 2042
 //#define MRIM_MAIL_RU_PORT 443
 
